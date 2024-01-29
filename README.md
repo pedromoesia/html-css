@@ -1,2 +1,2 @@
 # html-css
- módulo 3 - criação de site/exercicio final.
+ módulo 2 - criação de site/exercicio final.
